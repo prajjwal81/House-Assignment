@@ -1,0 +1,29 @@
+/* .App{
+  background: rgb(123, 152, 238);
+} */
+.largeblock{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0% left;
+}
+.largeblock .card{
+  flex: 0 0 33.333333%;
+}
+.searchbox{
+  margin-top: 40px;
+  width: 55vw;
+  margin-left: 120px;
+  
+}
+.text{
+  font-size: xx-large;
+  font-weight: 900;
+  
+}
+.d-flex{
+  height: 52px;
+}
+.formargin{
+  margin-left: 50px;
+  font-weight: 700;
+}
